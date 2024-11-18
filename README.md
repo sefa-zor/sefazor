@@ -12,9 +12,9 @@ Je suis actuellement à la recherche d’une alternance pour développer mes com
 ## 🌟 À propos de moi
 🔭 **Actuellement :** Une formation de découverte et de spécialisation dans l'IT.
 🎯 **Objectif :** Me spécialiser en sécurité des systèmes et des réseaux.
-                Travailler sur des projets innovants
-                Approfondir mes connaissances en cybersécurité
-                Contribuer à la communauté open source
+                  Travailler sur des projets innovants
+                  Approfondir mes connaissances en cybersécurité
+                  Contribuer à la communauté open source
 📚 **Compétences :** Python,Splunk,IBM Qradar,TheHive,CrowdStrike,Wireshark,Nessus,HTML,CSS,Linux (Debian),DHCP,Virtualisation (VMware).
 
 
