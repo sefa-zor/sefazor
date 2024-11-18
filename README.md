@@ -1,7 +1,9 @@
 
 # 👋 Bienvenue sur mon profil GitHub https://github.com/sefa-zor!
 
-![Bienvenue sur mon profil GitHub](lien-de-l-image)
+![Header](./gimg.png)
+
+
 
 Je suis Sefa Zor,passionné par la cybersécurité.  
 Je suis actuellement à la recherche d’une alternance pour développer mes compétences professionnelles et contribuer à des projets innovants.
