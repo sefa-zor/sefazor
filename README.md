@@ -23,7 +23,7 @@ Je suis actuellement à la recherche d’une alternance pour développer mes com
 ## 🚀 Mes projets
 Voici quelques projets que j’ai réalisés :
 
-1. **[Fansite HTML/CSS](https://github.com/username/fansite-projet)**  
+1. **[Fansite HTML/CSS][(https://github.com/louiselaurennt/fansite)]**  
    Un site web dédié à un artiste favori. **Technologies utilisées :** Figma,HTML, CSS.
    
 2. **[Configuration DHCP Debian](https://github.com/username/dhcp-setup)**  
@@ -35,6 +35,6 @@ Voici quelques projets que j’ai réalisés :
 
 ## 📫 Contact
 💼 **[LinkedIn][((https://www.linkedin.com/in/sefa-zor/)]**
-🌐 **[Canval](https://www.canva.com/projects)**
-📧 **Email:sefa.zor@laplateforme.io**
+🌐 **[Canval][(https://www.canva.com/projects)]**
+📧 **[Email][sefa.zor@laplateforme.io]**
 
